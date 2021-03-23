@@ -2,7 +2,7 @@
 
 Hey everyone, welcome to my Anki deck. This is where I upload all of my learnings from 100Devs and put it into an Anki deck where everyone else can use it to aid their learning.
 
-![alt tag](http://placecorgi.com/1200/650)
+![Picture of Anki Deck](assets/2021-03-23-14-36-44.png)
 
 ## How It's Made:
 
